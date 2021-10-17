@@ -9,7 +9,7 @@
   
 ## Demo 
 Link: https://real-spam-detector.herokuapp.com/ <br><br>
-[![spam]![image](https://user-images.githubusercontent.com/52123628/137636814-aa7257f9-dead-4844-b81c-fda82f2c5a18.png)
+![image](https://user-images.githubusercontent.com/52123628/137636814-aa7257f9-dead-4844-b81c-fda82f2c5a18.png)
 
 ## Introduction
 This is a Spam Classifier web application built using Flask and deployed on Heroku platform. <br>
